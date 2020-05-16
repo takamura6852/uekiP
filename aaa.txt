@@ -1,9 +1,4 @@
 123
 qqq
-<<<<<<< HEAD
-ppppp
-=======
 aaa
 q
-
->>>>>>> develop
