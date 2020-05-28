@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 qqq
 aaa
 q
-=======
->>>>>>> master
 takamura
 yukikazu
 koitoyama
 741-3
-aaa
